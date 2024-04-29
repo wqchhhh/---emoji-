@@ -18,3 +18,29 @@ a）如果选择用户输入图片，模型读取图片，调用情绪识别模�
 b）如果选择文生图，根据输入的文本生成图像，用情绪识别模型进行情绪识别；
 
 根据识别的情绪，根据自定义的文本库，寻找一个合适的表情包文字，将文字与图片结合，输出表情包。
+
+配置文件在requirem.txt
+
+项目结果展示
+
+第一个功能，根据用户输入图片
+
+<img width="844" alt="a4597c689f14eebe251b23c83a5fccfd" src="https://github.com/wqchhhh/---emoji-/assets/166973441/f02d0fff-b875-48f8-b17d-64842ebc3010">
+
+
+第二个功能：调用文生图模型
+
+输入关键词：林黛玉
+
+<img width="203" alt="image" src="https://github.com/wqchhhh/---emoji-/assets/166973441/c781cf2d-41fc-4ccb-9bcc-cc21b8ba4cc4">
+<img width="209" alt="image" src="https://github.com/wqchhhh/---emoji-/assets/166973441/d99f06b0-5da2-403e-9b27-09a0d0c2dc77">
+
+输入关键词：快乐的加菲猫
+
+<img width="208" alt="image" src="https://github.com/wqchhhh/---emoji-/assets/166973441/8b5b0e8b-9742-482e-a288-102c1869c101">
+
+
+
+
+
+
